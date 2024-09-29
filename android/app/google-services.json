@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572421122970",
+    "project_id": "nccguide-mke5d4",
+    "storage_bucket": "nccguide-mke5d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572421122970:android:12df52e55b5e4a7cc86823",
+        "android_client_info": {
+          "package_name": "com.mycompany.nccguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzWo0rt-BaQkGIiZ85D3n8c5HMuA9JwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
